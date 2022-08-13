@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memesupplyer.github.io" resolutions="1x" timestamp="1660352539279">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memesupplyer.github.io" resolutions="1x" timestamp="1660352896080">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
@@ -275,6 +275,6 @@
   <file name="usc.html" crc="165225410" seo="true" mt="1659856982432" redirect="true"/>
   <file name="index.html" crc="4287483501" seo="true" mt="1660351680567" redirect="true"/>
   <file name="wish-zone.html" crc="4175732241" seo="true" mt="1660352367968" redirect="true"/>
-  <file name="wish-zone-verify.html" crc="4026832439" seo="true" mt="1660352492598" redirect="true"/>
+  <file name="wish-zone-verify.html" crc="136057300" seo="true" mt="1660352890243" redirect="true"/>
   <file name="numberc.html" crc="166292399" seo="true" mt="1660352516165" redirect="true"/>
 </manifest>
