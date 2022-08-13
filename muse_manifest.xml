@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memesupplyer.github.io" resolutions="1x" timestamp="1660351688594">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memesupplyer.github.io" resolutions="1x" timestamp="1660352539279">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
@@ -9,21 +9,19 @@
     <file name="wish-zone-verify.css" crc="4061869593" ref="wish-zone-verify"/>
     <file name="nomq_wish-zone-verify.css" crc="4190657447" ref="wish-zone-verify"/>
     <file name="index.css" crc="4028294870" ref="index"/>
-    <file name="numberc-copy.css" crc="220954500" ref="numberc-copy"/>
-    <file name="nomq_numberc-copy.css" crc="497027138" ref="numberc-copy"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="usc:index:wish-zone:wish-zone-verify:numberc:numberc-copy"/>
-    <file name="museutils.js" crc="3939489907" ref="usc:index:wish-zone:wish-zone-verify:numberc:numberc-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="usc:index:wish-zone:wish-zone-verify:numberc:numberc-copy"/>
-    <file name="museconfig.js" crc="3936894949" ref="usc:index:wish-zone:wish-zone-verify:numberc:numberc-copy"/>
-    <file name="jquery.watch.js" crc="522499760" ref="usc:index:wish-zone:wish-zone-verify:numberc:numberc-copy"/>
-    <file name="require.js" crc="4177726516" ref="usc:index:wish-zone:wish-zone-verify:numberc:numberc-copy"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="wish-zone:wish-zone-verify:numberc:numberc-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="usc:index:wish-zone:wish-zone-verify:numberc"/>
+    <file name="museutils.js" crc="3939489907" ref="usc:index:wish-zone:wish-zone-verify:numberc"/>
+    <file name="whatinput.js" crc="86476730" ref="usc:index:wish-zone:wish-zone-verify:numberc"/>
+    <file name="museconfig.js" crc="3936894949" ref="usc:index:wish-zone:wish-zone-verify:numberc"/>
+    <file name="jquery.watch.js" crc="522499760" ref="usc:index:wish-zone:wish-zone-verify:numberc"/>
+    <file name="require.js" crc="4177726516" ref="usc:index:wish-zone:wish-zone-verify:numberc"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="wish-zone:wish-zone-verify:numberc"/>
   </folder>
   <folder name="images">
     <file name="u155-4.png" crc="469525733" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:wish-zone:wish-zone-verify:numberc:numberc-copy"/>
+    <file name="blank.gif" crc="4208392903" ref="index:wish-zone:wish-zone-verify:numberc"/>
     <file name="u31601-4.png" crc="473226139" ref="index"/>
     <file name="u31183-4.png" crc="4132473067" ref="wish-zone"/>
     <file name="u31239-177.png" crc="4031885538" ref="wish-zone"/>
@@ -83,50 +81,50 @@
     <file name="u31297-82.png" crc="163987591" ref="wish-zone-verify"/>
     <file name="u32822-4.png" crc="4186480125" ref="numberc"/>
     <file name="u32833-4.png" crc="229909794" ref="numberc"/>
-    <file name="0f4niioghcg91.jpg" crc="4133585994" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="0f4niioghcg91.jpg" crc="4133585994" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="gv0rbsxmzcg91-crop-u32785.jpg" crc="4200296812" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
     </file>
     <file name="u32807-4.png" crc="10214652" ref="numberc"/>
-    <file name="e.jpg" crc="4253746355" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="e.jpg" crc="4253746355" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="u32837-4.png" crc="215461876" ref="numberc"/>
-    <file name="1659923916206.jpg" crc="4040584791" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="1659923916206.jpg" crc="4040584791" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="u32847-21.png" crc="527285337" ref="numberc"/>
     <file name="u32834-4.png" crc="3874722641" ref="numberc"/>
     <file name="u32855-4.png" crc="22112435" ref="numberc"/>
-    <file name="789.jpg" crc="4035942419" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="789.jpg" crc="4035942419" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="u32819-4.png" crc="59206765" ref="numberc"/>
-    <file name="ik5o16r7fdg91.jpg" crc="106238153" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="ik5o16r7fdg91.jpg" crc="106238153" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
-    <file name="8675309.jpg" crc="4097502020" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="8675309.jpg" crc="4097502020" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="u32818-4.png" crc="376486014" ref="numberc"/>
     <file name="u32815-4.png" crc="287955088" ref="numberc"/>
@@ -137,10 +135,10 @@
     <file name="u32826-4.png" crc="3758377765" ref="numberc"/>
     <file name="u32790-4.png" crc="4226607245" ref="numberc"/>
     <file name="u32793-4.png" crc="3860409899" ref="numberc"/>
-    <file name="u32850-6.png" crc="4131515131" ref="numberc"/>
+    <file name="u32850-6.png" crc="478243837" ref="numberc"/>
     <file name="u32839-4.png" crc="4043376437" ref="numberc"/>
     <file name="u32829-4.png" crc="465669136" ref="numberc"/>
-    <file name="u32795-8.png" crc="3945513404" ref="numberc"/>
+    <file name="u32795-8.png" crc="4252665153" ref="numberc"/>
     <file name="u32825-4.png" crc="529216968" ref="numberc"/>
     <file name="u32845_states.png" crc="3791629997" ref="numberc"/>
     <file name="u32845_states-r.png" crc="3791629997" ref="numberc"/>
@@ -150,87 +148,87 @@
     <file name="u32828_states-r.png" crc="503715878" ref="numberc"/>
     <file name="u32801_states.png" crc="438934668" ref="numberc"/>
     <file name="u32801_states-r.png" crc="438934668" ref="numberc"/>
-    <file name="polish_20220808_093441163.png" crc="4119645249" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="polish_20220808_093441163.png" crc="4119645249" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
-    <file name="ewq.jpg" crc="3763182382" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="ewq.jpg" crc="3763182382" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
-    <file name="9exinu84odg91.jpg" crc="178988638" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="9exinu84odg91.jpg" crc="178988638" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="u32832-4.png" crc="4215268415" ref="numberc"/>
-    <file name="6wzm0wp73ag91.jpg" crc="4004058989" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="6wzm0wp73ag91.jpg" crc="4004058989" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="u32808-4.png" crc="3980744212" ref="numberc"/>
-    <file name="9z7h0zi7sdg91.jpg" crc="4064040612" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="9z7h0zi7sdg91.jpg" crc="4064040612" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
-    <file name="hgvdwk1hqag91.jpg" crc="104416889" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="hgvdwk1hqag91.jpg" crc="104416889" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
-    <file name="1659912332262.png" crc="3892127474" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="1659912332262.png" crc="3892127474" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
-    <file name="3lq559wivdg91.jpg" crc="498110144" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="3lq559wivdg91.jpg" crc="498110144" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
-    <file name="6478.jpg" crc="498617480" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="6478.jpg" crc="498617480" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="u32787-4.png" crc="3853248194" ref="numberc"/>
-    <file name="su39bae1abg91.jpg" crc="3986878880" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="su39bae1abg91.jpg" crc="3986878880" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="u32804-4.png" crc="308818764" ref="numberc"/>
-    <file name="ut3zoldxhag91.jpg" crc="3868647356" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="ut3zoldxhag91.jpg" crc="3868647356" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
-    <file name="0n4afgiu0cg91.jpg" crc="131727902" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="0n4afgiu0cg91.jpg" crc="131727902" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
-    <file name="7cf583vwbdg91.jpg" crc="418012733" seo="true" ref="numberc:numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-      <caption webpage="numberc-copy" alt=""/>
+    <file name="7cf583vwbdg91.jpg" crc="418012733" seo="true" ref="numberc">
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
+      <caption webpage="numberc-copy" alt=""/>
     </file>
     <file name="u32792-4.png" crc="4180580547" ref="numberc"/>
     <file name="u32822-42.png" crc="4277887853" ref="numberc"/>
@@ -259,7 +257,7 @@
     <file name="u32790-42.png" crc="371986728" ref="numberc"/>
     <file name="u32792-42.png" crc="72571397" ref="numberc"/>
     <file name="u32829-42.png" crc="3935417934" ref="numberc"/>
-    <file name="u32850-62.png" crc="4215701777" ref="numberc"/>
+    <file name="u32850-62.png" crc="3945886272" ref="numberc"/>
     <file name="u32845_states2.png" crc="25209097" ref="numberc"/>
     <file name="u32845_states-r2.png" crc="25209097" ref="numberc"/>
     <file name="u32828_states2.png" crc="4047692445" ref="numberc"/>
@@ -270,90 +268,13 @@
     <file name="u32841_states-r2.png" crc="472464185" ref="numberc"/>
     <file name="u32825-42.png" crc="4018809673" ref="numberc"/>
     <file name="u32839-42.png" crc="4005370135" ref="numberc"/>
-    <file name="u32795-82.png" crc="27311998" ref="numberc"/>
+    <file name="u32795-82.png" crc="368701524" ref="numberc"/>
     <file name="u384_states.png" crc="4162761565" ref="index"/>
     <file name="u384_states-r.png" crc="4162761565" ref="index"/>
-    <file name="u36934-4.png" crc="4186480125" ref="numberc-copy"/>
-    <file name="u36937-4.png" crc="229909794" ref="numberc-copy"/>
-    <file name="gv0rbsxmzcg91-crop-u36959.jpg" crc="4200296812" seo="true" ref="numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-    </file>
-    <file name="u36908-4.png" crc="10214652" ref="numberc-copy"/>
-    <file name="u36915-4.png" crc="215461876" ref="numberc-copy"/>
-    <file name="u36920-21.png" crc="527285337" ref="numberc-copy"/>
-    <file name="u36950-4.png" crc="3874722641" ref="numberc-copy"/>
-    <file name="u36969-4.png" crc="22112435" ref="numberc-copy"/>
-    <file name="u36909-4.png" crc="59206765" ref="numberc-copy"/>
-    <file name="u36907-4.png" crc="376486014" ref="numberc-copy"/>
-    <file name="u36963-4.png" crc="287955088" ref="numberc-copy"/>
-    <file name="u36955-4.png" crc="202561763" ref="numberc-copy"/>
-    <file name="u36981-4.png" crc="474380305" ref="numberc-copy"/>
-    <file name="u36906-4.png" crc="208844330" ref="numberc-copy"/>
-    <file name="u36921-4.png" crc="332851722" ref="numberc-copy"/>
-    <file name="u36965-4.png" crc="3758377765" ref="numberc-copy"/>
-    <file name="u36912-4.png" crc="4226607245" ref="numberc-copy"/>
-    <file name="u36942-4.png" crc="3860409899" ref="numberc-copy"/>
-    <file name="u36928-6.png" crc="4131515131" ref="numberc-copy"/>
-    <file name="u36922-4.png" crc="4043376437" ref="numberc-copy"/>
-    <file name="u36910-4.png" crc="465669136" ref="numberc-copy"/>
-    <file name="u36964-8.png" crc="3945513404" ref="numberc-copy"/>
-    <file name="u36956-4.png" crc="529216968" ref="numberc-copy"/>
-    <file name="u36967_states.png" crc="3791629997" ref="numberc-copy"/>
-    <file name="u36967_states-r.png" crc="3791629997" ref="numberc-copy"/>
-    <file name="u36936_states.png" crc="483412125" ref="numberc-copy"/>
-    <file name="u36936_states-r.png" crc="483412125" ref="numberc-copy"/>
-    <file name="u36976_states.png" crc="503715878" ref="numberc-copy"/>
-    <file name="u36976_states-r.png" crc="503715878" ref="numberc-copy"/>
-    <file name="u36930_states.png" crc="438934668" ref="numberc-copy"/>
-    <file name="u36930_states-r.png" crc="438934668" ref="numberc-copy"/>
-    <file name="u36927-4.png" crc="4215268415" ref="numberc-copy"/>
-    <file name="u36911-4.png" crc="3980744212" ref="numberc-copy"/>
-    <file name="u36968-4.png" crc="3853248194" ref="numberc-copy"/>
-    <file name="u36972-4.png" crc="308818764" ref="numberc-copy"/>
-    <file name="u36933-4.png" crc="4180580547" ref="numberc-copy"/>
-    <file name="u36934-42.png" crc="4277887853" ref="numberc-copy"/>
-    <file name="u36937-42.png" crc="3903966785" ref="numberc-copy"/>
-    <file name="gv0rbsxmzcg91-crop-u369592.jpg" crc="380573301" seo="true" ref="numberc-copy">
-      <caption webpage="numberc-copy" alt=""/>
-    </file>
-    <file name="u36908-42.png" crc="3784683446" ref="numberc-copy"/>
-    <file name="u36915-42.png" crc="3977283833" ref="numberc-copy"/>
-    <file name="u36920-212.png" crc="527285337" ref="numberc-copy"/>
-    <file name="u36909-42.png" crc="3914149035" ref="numberc-copy"/>
-    <file name="u36950-42.png" crc="4105190274" ref="numberc-copy"/>
-    <file name="u36907-42.png" crc="4112968090" ref="numberc-copy"/>
-    <file name="u36969-42.png" crc="3951110119" ref="numberc-copy"/>
-    <file name="u36963-42.png" crc="4214011739" ref="numberc-copy"/>
-    <file name="u36955-42.png" crc="169561229" ref="numberc-copy"/>
-    <file name="u36927-42.png" crc="259827875" ref="numberc-copy"/>
-    <file name="u36911-42.png" crc="454335711" ref="numberc-copy"/>
-    <file name="u36981-42.png" crc="4068451346" ref="numberc-copy"/>
-    <file name="u36906-42.png" crc="324480828" ref="numberc-copy"/>
-    <file name="u36921-42.png" crc="5181669" ref="numberc-copy"/>
-    <file name="u36965-42.png" crc="4112256267" ref="numberc-copy"/>
-    <file name="u36968-42.png" crc="4179559736" ref="numberc-copy"/>
-    <file name="u36972-42.png" crc="3964114932" ref="numberc-copy"/>
-    <file name="u36942-42.png" crc="4138360242" ref="numberc-copy"/>
-    <file name="u36912-42.png" crc="371986728" ref="numberc-copy"/>
-    <file name="u36933-42.png" crc="72571397" ref="numberc-copy"/>
-    <file name="u36910-42.png" crc="3935417934" ref="numberc-copy"/>
-    <file name="u36928-62.png" crc="4215701777" ref="numberc-copy"/>
-    <file name="u36967_states2.png" crc="25209097" ref="numberc-copy"/>
-    <file name="u36967_states-r2.png" crc="25209097" ref="numberc-copy"/>
-    <file name="u36976_states2.png" crc="4047692445" ref="numberc-copy"/>
-    <file name="u36976_states-r2.png" crc="4047692445" ref="numberc-copy"/>
-    <file name="u36930_states2.png" crc="4090413408" ref="numberc-copy"/>
-    <file name="u36930_states-r2.png" crc="4090413408" ref="numberc-copy"/>
-    <file name="u36936_states2.png" crc="472464185" ref="numberc-copy"/>
-    <file name="u36936_states-r2.png" crc="472464185" ref="numberc-copy"/>
-    <file name="u36956-42.png" crc="4018809673" ref="numberc-copy"/>
-    <file name="u36922-42.png" crc="4005370135" ref="numberc-copy"/>
-    <file name="u36964-82.png" crc="27311998" ref="numberc-copy"/>
   </folder>
   <file name="usc.html" crc="165225410" seo="true" mt="1659856982432" redirect="true"/>
   <file name="index.html" crc="4287483501" seo="true" mt="1660351680567" redirect="true"/>
-  <file name="wish-zone.html" crc="396675222" seo="true" mt="1660350951731" redirect="true"/>
-  <file name="wish-zone-verify.html" crc="457389625" seo="true" mt="1660350775202" redirect="true"/>
-  <file name="numberc.html" crc="4212751635" seo="true" mt="1660187836806" redirect="true"/>
-  <file name="numberc-copy.html" crc="500190146" seo="true" mt="1660351674105" redirect="true"/>
+  <file name="wish-zone.html" crc="4175732241" seo="true" mt="1660352367968" redirect="true"/>
+  <file name="wish-zone-verify.html" crc="4026832439" seo="true" mt="1660352492598" redirect="true"/>
+  <file name="numberc.html" crc="166292399" seo="true" mt="1660352516165" redirect="true"/>
 </manifest>
