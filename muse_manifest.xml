@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memesupplyer.github.io" resolutions="1x" timestamp="1660351448348">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memesupplyer.github.io" resolutions="1x" timestamp="1660351527936">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
