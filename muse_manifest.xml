@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memesupplyer.github.io" resolutions="1x" timestamp="1660443152691">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memesupplyer.github.io" resolutions="1x" timestamp="1660443774820">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="wish-zone.css" crc="204281158" ref="wish-zone"/>
     <file name="nomq_wish-zone.css" crc="4063606863" ref="wish-zone"/>
-    <file name="numberc.css" crc="4190490013" ref="numberc"/>
-    <file name="nomq_numberc.css" crc="3909861967" ref="numberc"/>
+    <file name="numberc.css" crc="443147219" ref="numberc"/>
+    <file name="nomq_numberc.css" crc="4112624911" ref="numberc"/>
     <file name="wish-zone-verify.css" crc="128907998" ref="wish-zone-verify"/>
     <file name="nomq_wish-zone-verify.css" crc="268031456" ref="wish-zone-verify"/>
     <file name="index.css" crc="3989893749" ref="index"/>
     <file name="number1.css" crc="351649174" ref="number1"/>
     <file name="nomq_number1.css" crc="4097211917" ref="number1"/>
-    <file name="number2.css" crc="221475615" ref="number2"/>
-    <file name="nomq_number2.css" crc="3758929284" ref="number2"/>
+    <file name="number2.css" crc="115671785" ref="number2"/>
+    <file name="nomq_number2.css" crc="3931017944" ref="number2"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="usc:index:wish-zone:wish-zone-verify:numberc:number1:number2"/>
@@ -467,12 +467,24 @@
     <file name="u38169-42.png" crc="4018809673" ref="numberc"/>
     <file name="u38176-42.png" crc="4005370135" ref="numberc"/>
     <file name="u38173-82.png" crc="368701524" ref="numberc"/>
+    <file name="u38785_states.png" crc="332226291" ref="number2"/>
+    <file name="u38785_states-r.png" crc="4278246804" ref="number2"/>
+    <file name="u38796_states.png" crc="332226291" ref="number2"/>
+    <file name="u38796_states-r.png" crc="4278246804" ref="number2"/>
+    <file name="u38796_states2.png" crc="235844138" ref="number2"/>
+    <file name="u38796_states-r2.png" crc="81330926" ref="number2"/>
+    <file name="u38785_states2.png" crc="235844138" ref="number2"/>
+    <file name="u38785_states-r2.png" crc="81330926" ref="number2"/>
+    <file name="u38759_states.png" crc="332226291" ref="numberc"/>
+    <file name="u38759_states-r.png" crc="4278246804" ref="numberc"/>
+    <file name="u38759_states2.png" crc="235844138" ref="numberc"/>
+    <file name="u38759_states-r2.png" crc="81330926" ref="numberc"/>
   </folder>
   <file name="usc.html" crc="165225410" seo="true" mt="1659856982432" redirect="true"/>
   <file name="index.html" crc="3777912539" seo="true" mt="1660423154577" redirect="true"/>
   <file name="wish-zone.html" crc="4169349586" seo="true" mt="1660355825343" redirect="true"/>
   <file name="wish-zone-verify.html" crc="3831243301" seo="true" mt="1660355777457" redirect="true"/>
-  <file name="numberc.html" crc="116552064" seo="true" mt="1660439434412" redirect="true"/>
+  <file name="numberc.html" crc="3908318599" seo="true" mt="1660443750619" redirect="true"/>
   <file name="number1.html" crc="209495601" seo="true" mt="1660421438988" redirect="true"/>
-  <file name="number2.html" crc="4042299992" seo="true" mt="1660443143177" redirect="true"/>
+  <file name="number2.html" crc="3789745683" seo="true" mt="1660443720559" redirect="true"/>
 </manifest>
